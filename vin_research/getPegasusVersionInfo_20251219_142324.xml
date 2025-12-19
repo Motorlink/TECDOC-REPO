@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getPegasusVersionInfoResponse xmlns:ns2="http://server.cat.tecdoc.net"><build>2044</build><date>2015/06/23 10:21</date><major>3</major><minor>0</minor><revision>5</revision><status>200</status></ns2:getPegasusVersionInfoResponse></S:Body></S:Envelope>
