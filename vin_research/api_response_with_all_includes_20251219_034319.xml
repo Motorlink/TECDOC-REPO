@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getArticlesResponse xmlns:ns2="http://server.cat.tecdoc.net"><status>400</status><statusText>Field 'includeCriteriaFacets' requires either 'genericArticleIds' or 'assemblyGroupNodeIds' to not be null.</statusText></ns2:getArticlesResponse></S:Body></S:Envelope>

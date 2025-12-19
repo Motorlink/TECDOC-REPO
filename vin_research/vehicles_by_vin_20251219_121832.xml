@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getVehiclesByVINResponse xmlns:ns2="http://server.cat.tecdoc.net"><status>401</status><statusText>Access not allowed</statusText></ns2:getVehiclesByVINResponse></S:Body></S:Envelope>

@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getCountriesResponse xmlns:ns2="http://server.cat.tecdoc.net"><data><array><countryCode>DE</countryCode><countryName>Deutschland</countryName><usage>7</usage></array></data><status>200</status></ns2:getCountriesResponse></S:Body></S:Envelope>

@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getArticleLinkedAllLinkingTarget4Response xmlns:ns2="http://server.cat.tecdoc.net"><data><array><articleLinkages/></array></data><status>200</status></ns2:getArticleLinkedAllLinkingTarget4Response></S:Body></S:Envelope>
